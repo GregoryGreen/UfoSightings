@@ -11,7 +11,7 @@ Load and Prepare Data
 
 
 Questions And Exploration
-1 How Many Unique States, Countries, and Shape Are Included In The Data
+1  How Many Unique States, Countries, and Shape Are Included In The Data
 2. How Many Sightings Have Their Been in Each Country?
 3. Which 10 US States Report The Most Sightings?
 4. What Are The Top 5 Most Common Shapes?
