@@ -23,6 +23,7 @@ Questions And Exploration
 9. Plot Average Number Of Sightings Each Month
 
 Conclusions
+
 Most of the recorded sightings are North America, mostly in the US. The Western region of the U.S. is most likely to have reports of UFO sightings, making up about 34% of reported UFO Sightings in the U.S.
 
 The most common words that are used to describe reported UFOs are "light", "triangle", "circle", "fireball", and "sphere."
